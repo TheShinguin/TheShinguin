@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheShinguin
-- 👀 Kill Team stuff
+- 👀 I'm here to learn as a hobby and to "refine" my microcontroller skills
 - 🌱 I’m dumb as hell
 - 💞️ Only here with my bud
 - 📫 Search
